@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+.expg {
+    border-style: solid;
+    border: dashed red;
+    margin-top: 150px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 150px;
+    /* exeplo padding */
+    padding-top: 80px;
+    padding-left: 80px;
+    padding-bottom: 80px;
+    padding-right: 80px;
+}
+
+/* utilisando apenas "margin" ele utiliza os 4 valorese sem  */
+.ex {
+    margin: 150px 80px 80px 100px;
+}
