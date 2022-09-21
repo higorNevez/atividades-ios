@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+#container {
+    display: flex;
+    width: 500px;
+    height: 500px;
+    /* border: solid 3px; */
+    flex-direction: column-reverse;
+    /* flex-flow: wrap; */
+}
+
+.dv1 {
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+}
+
+.dv2 {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+.dv3 {
+    background-color: crimson;
+    width: 200px;
+    height: 200px;
+}
+.dv4 {
+    background-color: chartreuse;
+    width: 200px;
+    height: 200px;
+}
