@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body {
+    background-color: silver;
+    margin: 20px;
+}
+
+#lgn {
+    display: block;
+    margin: 500px auto;
+}
+
+#div_log {
+    padding: 30px;
+    background-color: azure;
+    border-radius: 15px;
+    box-shadow: 0 1px 1px darkviolet;
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+#div_log h1 {
+    font-family: sans-serif;
+    margin: 0 0 20px;
+}
+
+#div_log input {
+
+    width: 100px;
+    border: 1px solid silver;
+    border-radius: 4px;
+    padding: 0, 5rem;
+    font-size: 1rem;
+    background-color: aliceblue;
+}
+#div_log button{
+    color: blueviolet;
+}

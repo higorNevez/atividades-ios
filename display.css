@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+
 #container {
     display: flex;
     width: 500px;
@@ -8,7 +9,6 @@
     flex-direction: column-reverse;
     /* flex-flow: wrap; */
 }
-
 .dv1 {
     background-color: aqua;
     width: 200px;
@@ -30,8 +30,4 @@
     background-color: chartreuse;
     width: 200px;
     height: 200px;
-}
-
-.dv4 {
-    width: 1em;
 }
